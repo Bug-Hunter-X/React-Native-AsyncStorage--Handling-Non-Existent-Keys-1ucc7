@@ -1,0 +1,1 @@
+This repository demonstrates a common error in React Native when using AsyncStorage to retrieve values that may not exist.  The `AsyncStorageBug.js` file shows the error, and `AsyncStorageSolution.js` provides the corrected code.  The error occurs due to asynchronous nature of AsyncStorage operations. The solution uses async/await and proper error handling to prevent the error.
